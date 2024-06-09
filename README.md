@@ -1,4 +1,4 @@
 
 # gitPractice
-I am from feature branch change.
+I am new change and may introduce you to the conflict situation.
 
